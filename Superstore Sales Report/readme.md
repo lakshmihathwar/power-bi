@@ -1,5 +1,6 @@
-![Dashboard 1](dashboards/img1.png)
-![Dashboard 2](dashboards/img2.png)
-![Dashboard 3](dashboards/img3.png)
-![Dashboard 4](dashboards/img4.png)
-![Dashboard 5](dashboards/img5.png)
+![Dashboard 1](Dashboard/img1.png)
+![Dashboard 2](Dashboard/img2.png)
+![Dashboard 3](Dashboard/img3.png)
+![Dashboard 4](Dashboard/img4.png)
+![Dashboard 5](Dashboard/img5.png)
+
